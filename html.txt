@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="https://rnbwreath.github.io/styles.css">
+	<link rel="stylesheet" href="https://rnbwreath.github.io/styles.css">
 </head>
 	<body>
 		<img src="https://photos.google.com/photo/AF1QipNpcKns7Scx2iHR376aiLEkr6LyxFv_xbFoMA7T" alt="QR code with blue background" height="200" width="200">
