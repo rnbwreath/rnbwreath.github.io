@@ -1,17 +1,20 @@
 h1 {
 	text-align:center;
 	color: black;
-	font-size: ;
+	font-size: 15px;
+	font-weight: 700;
 }
 
 Body {
 	background-color:white
-	padding: ;
-	margin: ;
+	padding: 100;
+	margin: 50;
+	font: Outfit;
 }
 
 P {
 	text-align:center;
-	color: gray
-	font-size: ;
+	color: Light gray;
+	font-size: 15px;
+	font-weight: 400;
 }
