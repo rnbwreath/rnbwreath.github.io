@@ -20,3 +20,10 @@ P {
 	font-weight: 400;
 	font: Outfit;
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
