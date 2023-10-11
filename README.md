@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="https://rnbwreath.github.io/styles.css">
 </head>
 <style>
 	body {background-color: white;
